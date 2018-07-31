@@ -5,6 +5,7 @@ body{
 
     background-color:whitesmoke; 
     top: 10px;
+    margin-bottom: 30px;
 }
 .brandStyle{
     background-color: teal;
@@ -19,13 +20,13 @@ body{
     padding: 0;
 
 }
-.cornerLinks{
-    padding: 0;
-
+a.nav-link.cornerLink{
+    padding: 0px  0px;
 }
 .middleLink{
-    border-left: 1px solid blanchedalmond;
-    border-right: 1px solid blanchedalmond;
+    border-left: 1px solid rgb(25, 21, 16);
+    border-right: 1px solid rgb(25, 21, 16);
+
 }
 .imageStyle{
     float: left;
