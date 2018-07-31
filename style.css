@@ -1,0 +1,45 @@
+body{
+    background: url("images/concrete_seamless.png");
+}
+.navStyle{
+
+    background-color:whitesmoke; 
+    top: 10px;
+}
+.brandStyle{
+    background-color: teal;
+    width: 250px;
+    height: 90px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color:white !important;
+    /* it would not change the color of text until i used important */
+    text-align: center;
+    padding: 0;
+
+}
+.cornerLinks{
+    padding: 0;
+
+}
+.middleLink{
+    border-left: 1px solid blanchedalmond;
+    border-right: 1px solid blanchedalmond;
+}
+.imageStyle{
+    float: left;
+    width: 200px; 
+    padding-right:20px;
+    padding-bottom: 20px;
+
+}
+
+.footerStyle{
+    border-top: 8px solid rgb(3, 185, 3);
+    background-color:gray;
+}
+footer{
+    margin: auto;
+}
+  
