@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-## Instructions
+## Introduction
 
 This is a remake of the basic portfolio. However, we used bootstrap to make the framework. The navbar and footer are both fixed to top and bottom. 
 
